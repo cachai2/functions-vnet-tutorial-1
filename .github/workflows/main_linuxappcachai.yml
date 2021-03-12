@@ -39,4 +39,4 @@ jobs:
         app-name: 'linuxappcachai'
         slot-name: 'production'
         package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_23be1afbeb9346439302eb34b4a9504a }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_644c2b9a77b443b596cdd16ee8877bba }}
